@@ -1,4 +1,4 @@
-# desafio-02-acessibilidade
+# Acessibilidade
 
 Este projeto estava todo escrito sem a semântica correta.
 
